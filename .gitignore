@@ -2,3 +2,7 @@
 *.yml
 *.root
 *.table
+/lib/
+/src/obj/
+*_Dict.*
+/example_data/
